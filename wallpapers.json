@@ -1,0 +1,69 @@
+{
+  "wallpapers": [
+    {
+      "author": "No One",
+      "url": "./Wallpapers/001.jpg",
+      "name": "001",
+    },
+    {
+      "author": "No One",
+      "url": "./Wallpapers/002.jpg",
+      "name": "002",
+    },
+    {
+      "author": "No One",
+      "url": "./Wallpapers/003.jpg",
+      "name": "003",
+    },
+    {
+      "author": "No One",
+      "url": "./Wallpapers/004.jpg",
+      "name": "004",
+    },
+    {
+      "author": "No One",
+      "url": "./Wallpapers/005.jpg",
+      "name": "005",
+    },
+    {
+      "author": "No One",
+      "url": "./Wallpapers/006.jpg",
+      "name": "006",
+    },
+    {
+      "author": "No One",
+      "url": "./Wallpapers/007.jpg",
+      "name": "007",
+    },
+    {
+      "author": "No One",
+      "url": "./Wallpapers/008.jpg",
+      "name": "008",
+    },
+    {
+      "author": "No One",
+      "url": "./Wallpapers/009.jpg",
+      "name": "009",
+    },
+    {
+      "author": "No One",
+      "url": "./Wallpapers/010.jpg",
+      "name": "010",
+    },
+    {
+      "author": "No One",
+      "url": "./Wallpapers/011.jpg",
+      "name": "011",
+    },
+    {
+      "author": "No One",
+      "url": "./Wallpapers/012.jpg",
+      "name": "012",
+    },
+    {
+      "author": "No One",
+      "url": "./Wallpapers/013.jpg",
+      "name": "013",
+    }
+  ],
+}
